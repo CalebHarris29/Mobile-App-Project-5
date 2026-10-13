@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/1Rpa8e2avvKX4oIZfM44aS4fEJQ1wms_f/view?usp=sharing
+
 
 ## Gif Video 
 <img src="demo5.gif" width="400" alt="Hydration Tracker App Walkthrough">
